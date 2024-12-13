@@ -1,0 +1,26 @@
+﻿@using MVC.Models
+@model Product
+@{
+    ViewBag.Title = "DisplayProduct";
+}
+
+<h2>DisplayProduct</h2>
+<table>
+    <tr>
+        <th>Product Id</th>
+        <td>@Model.ProductId</td>
+    </tr>
+    <tr>
+        <th>Product name</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Quantity</th>
+        <td>@Model.Quantity</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>@Model.Price</td>
+    </tr>
+</table>
+

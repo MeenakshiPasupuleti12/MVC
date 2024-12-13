@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.netc#\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|d:\\.netc#\\mvc\\mvc\\views\\product\\enternewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\enternewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|D:\\.netc#\\MVC\\mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|D:\\.netc#\\MVC\\mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|D:\\.netc#\\MVC\\mvc\\views\\product\\displayproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2A7B13-57E5-43D4-AF41-6D08B76FBADF}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\displayproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayProduct.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\MVC\\MVC\\Views\\Product\\DisplayProduct.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\DisplayProduct.cshtml",
+              "ToolTip": "D:\\.netc#\\MVC\\MVC\\Views\\Product\\DisplayProduct.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\DisplayProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:40:43.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnterNewProduct.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\MVC\\MVC\\Views\\Product\\EnterNewProduct.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\EnterNewProduct.cshtml",
+              "ToolTip": "D:\\.netc#\\MVC\\MVC\\Views\\Product\\EnterNewProduct.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\EnterNewProduct.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T04:37:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.netc#\\MVC\\MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.netc#\\MVC\\MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:29:11.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.netc#\\MVC\\MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Product.cs",
+              "ToolTip": "D:\\.netc#\\MVC\\MVC\\Models\\Product.cs",
+              "RelativeToolTip": "MVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:27:05.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
