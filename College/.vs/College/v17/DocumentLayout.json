@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.netc#\\College\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|D:\\.netc#\\College\\college\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|solutionrelative:college\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|d:\\.netc#\\college\\college\\vm\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|solutionrelative:college\\vm\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|D:\\.netc#\\College\\college\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|solutionrelative:college\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|D:\\.netc#\\College\\college\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7538068-48E4-413A-8B5D-FCAFCE1A7074}|College\\College.csproj|solutionrelative:college\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentVM.cs",
+              "DocumentMoniker": "D:\\.netc#\\College\\College\\VM\\StudentVM.cs",
+              "RelativeDocumentMoniker": "College\\VM\\StudentVM.cs",
+              "ToolTip": "D:\\.netc#\\College\\College\\VM\\StudentVM.cs",
+              "RelativeToolTip": "College\\VM\\StudentVM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:08:43.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\College\\College\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "College\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\.netc#\\College\\College\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "College\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T04:43:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.netc#\\College\\College\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "College\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.netc#\\College\\College\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "College\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:40:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.netc#\\College\\College\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Student.cs",
+              "ToolTip": "D:\\.netc#\\College\\College\\Models\\Student.cs",
+              "RelativeToolTip": "College\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:37:11.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

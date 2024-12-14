@@ -1,0 +1,66 @@
+﻿@using College.VM
+@model StudentVM
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Student Data</h2>
+<table>
+    <tr>
+        <th>Student Id</th>
+        <td>@Model.Student.StudentId</td>
+    </tr>
+    <tr>
+        <th>Student Name</th>
+        <td>@Model.Student.StudentName</td>
+    </tr>
+    <tr>
+        <th>Standard</th>
+        <td>@Model.Student.Standard</td>
+    </tr>
+    <tr>
+        <th>Name Of the Exam</th>
+        <td>@Model.Student.NameOfTheExam</td>
+    </tr>
+    <tr>
+        <th>Telugu</th>
+        <td style="background-color:@Model.s1Color">@Model.Student.s1</td>
+    </tr>
+    <tr>
+        <th>English</th>
+        <td style="background-color:@Model.s2Color">@Model.Student.s2</td>
+    </tr>
+    <tr>
+        <th>Hindi</th>
+        <td style="background-color:@Model.s3Color" >@Model.Student.s3</td>
+    </tr>
+    <tr>
+        <th>Maths</th>
+        <td style="background-color:@Model.s4Color">@Model.Student.s4</td>
+    </tr>
+    <tr>
+        <th>Physics</th>
+        <td style="background-color:@Model.s5Color">@Model.Student.s5</td>
+    </tr>
+    <tr>
+        <th>Chemistry</th>
+        <td style="background-color:@Model.s6Color">@Model.Student.s6</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <td>@Model.Total</td>
+   <tr/>
+    <tr>
+        <th>Result</th>
+        <td style="background-color:@Model.ColorName">@Model.Result</td>
+    </tr>
+    <tr>
+        <th>Grade</th>
+        <td>@Model.Grade</td>
+    </tr>
+    <tr>
+        <th>Average</th>
+        <td>@Model.Average</td>
+    </tr>
+</table>
+
