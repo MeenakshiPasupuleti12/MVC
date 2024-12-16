@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.netc#\\Tourist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|d:\\.netc#\\tourist\\tourist\\controllers\\touristcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|solutionrelative:tourist\\controllers\\touristcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|d:\\.netc#\\tourist\\tourist\\views\\tourist\\displaytouristplace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|solutionrelative:tourist\\views\\tourist\\displaytouristplace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|d:\\.netc#\\tourist\\tourist\\views\\tourist\\uploadtouristplace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|solutionrelative:tourist\\views\\tourist\\uploadtouristplace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|d:\\.netc#\\tourist\\tourist\\models\\touristplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|solutionrelative:tourist\\models\\touristplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|d:\\.netc#\\tourist\\tourist\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|solutionrelative:tourist\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|d:\\.netc#\\tourist\\tourist\\dal\\touristplacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753B4F7-7AF6-440A-9BD1-C4E739EEFC73}|Tourist\\Tourist.csproj|solutionrelative:tourist\\dal\\touristplacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayTouristPlace.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\Tourist\\Tourist\\Views\\Tourist\\DisplayTouristPlace.cshtml",
+              "RelativeDocumentMoniker": "Tourist\\Views\\Tourist\\DisplayTouristPlace.cshtml",
+              "ToolTip": "D:\\.netc#\\Tourist\\Tourist\\Views\\Tourist\\DisplayTouristPlace.cshtml",
+              "RelativeToolTip": "Tourist\\Views\\Tourist\\DisplayTouristPlace.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:47:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uploadTouristPlace.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\Tourist\\Tourist\\Views\\Tourist\\uploadTouristPlace.cshtml",
+              "RelativeDocumentMoniker": "Tourist\\Views\\Tourist\\uploadTouristPlace.cshtml",
+              "ToolTip": "D:\\.netc#\\Tourist\\Tourist\\Views\\Tourist\\uploadTouristPlace.cshtml",
+              "RelativeToolTip": "Tourist\\Views\\Tourist\\uploadTouristPlace.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:36:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TouristController.cs",
+              "DocumentMoniker": "D:\\.netc#\\Tourist\\Tourist\\Controllers\\TouristController.cs",
+              "RelativeDocumentMoniker": "Tourist\\Controllers\\TouristController.cs",
+              "ToolTip": "D:\\.netc#\\Tourist\\Tourist\\Controllers\\TouristController.cs",
+              "RelativeToolTip": "Tourist\\Controllers\\TouristController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:48:08.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\.netc#\\Tourist\\Tourist\\Web.config",
+              "RelativeDocumentMoniker": "Tourist\\Web.config",
+              "ToolTip": "D:\\.netc#\\Tourist\\Tourist\\Web.config",
+              "RelativeToolTip": "Tourist\\Web.config",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T09:43:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TouristPlaceContext.cs",
+              "DocumentMoniker": "D:\\.netc#\\Tourist\\Tourist\\Dal\\TouristPlaceContext.cs",
+              "RelativeDocumentMoniker": "Tourist\\Dal\\TouristPlaceContext.cs",
+              "ToolTip": "D:\\.netc#\\Tourist\\Tourist\\Dal\\TouristPlaceContext.cs",
+              "RelativeToolTip": "Tourist\\Dal\\TouristPlaceContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:35:14.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TouristPlace.cs",
+              "DocumentMoniker": "D:\\.netc#\\Tourist\\Tourist\\Models\\TouristPlace.cs",
+              "RelativeDocumentMoniker": "Tourist\\Models\\TouristPlace.cs",
+              "ToolTip": "D:\\.netc#\\Tourist\\Tourist\\Models\\TouristPlace.cs",
+              "RelativeToolTip": "Tourist\\Models\\TouristPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:01:48.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
